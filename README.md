@@ -1,10 +1,6 @@
 # Hostloc Auto Get Points
 使用 GitHub Actions 自动获取 Hostloc 论坛积分
 
-##
-
-本仓库主要功能基本不会再改变，但是也会偶尔增加一些小更新，后续会在这里做更新通知。
-
 **注意：** 对 Git 和 GitHub 不熟悉的人建议通过**删除原仓库，重新 Fork** 的方式更新，不要乱点 pull request ，我已经关掉过 n 个莫名奇妙的 pull request 了。
 
 #### 2020年12月1日
