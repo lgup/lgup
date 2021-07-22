@@ -1,5 +1,4 @@
 # Hostloc Auto Get Points
-使用 GitHub Actions 自动获取 Hostloc 论坛积分
 
 **注意：** 对 Git 和 GitHub 不熟悉的人建议通过**删除原仓库，重新 Fork** 的方式更新，不要乱点 pull request ，我已经关掉过 n 个莫名奇妙的 pull request 了。
 
