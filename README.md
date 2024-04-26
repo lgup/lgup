@@ -1,36 +1,3 @@
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
-![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
-设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
 ![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
 设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
 设置好环境变量后点击你的仓库上方的 Actions 选项，会打开一个如下的页面，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。![在 Fork 的仓库上启用 GitHub Actions](./images/understand-workflows.png)
